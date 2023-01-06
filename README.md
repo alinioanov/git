@@ -1,15 +1,5 @@
 # git
 ```mermaid
-%%{ init: {
-    'gitGraph': {'mainBranchName': 'prod'},
-    'themeVariables': {
-          'git0': '#82b366',
-          'git1': '#eecc00',
-          'git2': '#ffaa00',
-          'git3': '#8888ff',
-          'git4': '#3399ff'
-    }
-}}%%
 gitGraph
     commit id:" "
     branch qa
